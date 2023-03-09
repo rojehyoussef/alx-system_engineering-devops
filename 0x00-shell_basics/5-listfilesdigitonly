@@ -1,2 +1,2 @@
- cat shl #!/bin/bash
+#!/bin/bash
 ls -lan
