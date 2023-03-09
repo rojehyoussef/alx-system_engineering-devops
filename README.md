@@ -1,15 +1,2 @@
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
-This is an intro for the project
+intro for alx shell basics
+
